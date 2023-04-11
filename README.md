@@ -2,7 +2,7 @@
 
 this code is linear gauge widget for flutter 
 
-this widget has parameters: \n
+this widget has parameters: </br>
   required int totalCount;
   required int gaugeCount;
   
